@@ -21,7 +21,7 @@ public class Main {
 		
 		Sphere s = new Sphere(12.6); //Radius
 		log(s.getSurfaceArea());
-		log(s.getVolume();
+		log(s.getVolume());
 
 	}
 	private void log(double i){
