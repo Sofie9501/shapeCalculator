@@ -1,5 +1,7 @@
 import java.util.logging.Logger;
 
+import src.shapes.Circle;
+
 public class Main {
 
 	public static void main(String[] args) {
